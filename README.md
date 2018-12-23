@@ -2,6 +2,7 @@
 
 Implemented stochastic Kmeans++ combined with Metropolis–Hastings algorithm for fast categorization of data
 Improved the convergence rate up to 44 % by optimizing the initial seeding algorithm <br />
+Dataset [Yelp User Review Dataset](https://mega.nz/#!w1By0QbI!KY1OsaNVFxY4zdT56NOJvDtzwSeiFsP25pxUPURpi6Y)
 
 ## Results
 ### Online Kmeans 
